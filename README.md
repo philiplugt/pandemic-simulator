@@ -24,4 +24,12 @@ Run as `java Pandemulation`
 
 ### Details
 
-To do
+This project was started in the early summer of 2020. I was bored and needed something to do. Likewise it was a good way to refreshen my Java skills. This project came with a couple of challenges. They were:
+
+- Setting up the Java GUI, it's not hard, but can be tricky
+- Handling of collisions with walls and boundaries
+- Correctly calculating the motion vectors, so that objects bounce off each other
+- Running a thread to render the graphics at a stable frame rate
+- Tracking the rate of "sickness" via a curve
+
+All in all, an interesting and fun project.
