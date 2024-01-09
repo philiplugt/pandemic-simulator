@@ -14,13 +14,18 @@ This project was started during the COVID-19 lockdown as a way to visualize how 
 
 ### Versioning
 
-Successfully tested and run on Java SE 17 (2023-12-22)
+Successfully tested and run on Java SE 17 (2024-01-09)
+
+| Version | Date | Notes |
+| ------- | ---- | ----- |
+| current | 2024-01-09 | Full refactor, cleaner code, smaller files |
+| v1 | 2020-05-10 to 2020-06-01 | Original attempt, not bad, but big code blocks |
 
 ### How to use
 
 Compile all the files in the `source` folder with `javac *.java`
 
-Run as `java Pandemulation`
+Run as `java LaunchPandemicSimulator`
 
 ### Details
 
@@ -28,7 +33,7 @@ This project was started in the early summer of 2020. I was bored and needed som
 
 - Setting up the Java GUI, it's not hard, but can be tricky
 - Handling of collisions with walls and boundaries
-- Correctly calculating the motion vectors, so that objects bounce off each other
+- Correctly calculating the motion vectors, so that balls bounce off each other
 - Running a thread to render the graphics at a stable frame rate
 - Tracking the rate of "sickness" via a curve
 
