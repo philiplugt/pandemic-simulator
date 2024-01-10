@@ -9,7 +9,7 @@ This project was started during the COVID-19 lockdown as a way to visualize how 
     <img width="380" alt="Pandemic simulation with social distancing" src="https://github.com/pxv8780/pandemic-simulator/assets/22942635/aa920814-404d-40cc-aaaf-ef176464a877">
     &nbsp;&nbsp;
     <br>
-    <p><sup>A running the pandemic simulator with and without social distancing mode</sup></p>
+    <p><sup>A running example of the pandemic simulator without and with social distancing mode</sup></p>
 </div>
 
 ### Versioning
